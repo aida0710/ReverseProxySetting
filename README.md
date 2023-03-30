@@ -1,0 +1,2 @@
+# ReverseProxySetting
+リバースプロキシサーバのnginx設定
